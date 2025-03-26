@@ -1,0 +1,8 @@
+{
+    "site": {
+        "port": 8000
+    },
+    "websocket": {
+        "port": 8080
+    }
+}

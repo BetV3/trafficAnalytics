@@ -1,0 +1,25 @@
+{
+  "name": "trafficanalytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dstat": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetV3/trafficAnalytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetV3/trafficAnalytics/issues"
+  },
+  "homepage": "https://github.com/BetV3/trafficAnalytics#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
